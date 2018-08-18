@@ -1,0 +1,6 @@
+package Enums;
+
+
+public enum enumDirections {
+	NORTH,EAST,SOUTH,WEST,NORTHWEST,NORTHEAST,SOUTHEAST,SOUTHWEST
+}

@@ -1,0 +1,3 @@
+Level1; PirateShip (5,5) (6,6); Ship (0,0); Island (4,4) (9,8) (1,2) (3,4); SeaMonster (10,10) (12,14) (25,12) (12,7); AttackPower (7,3);
+Level2; PirateShip (9,8) (8,9); Ship (0,0); Island (1,1) (2,2) (1,2) (3,4); SeaMonster (3,7); AttackPower (7,7);
+Level3; PirateShip (5,7) (7,5); Ship (0,0);
